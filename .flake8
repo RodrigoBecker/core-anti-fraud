@@ -1,0 +1,4 @@
+[flake8]
+exclude = .tox,__pycache__,*.pyc,.venv,venv
+max-line-length = 119
+
