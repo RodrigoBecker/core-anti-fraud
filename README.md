@@ -1,5 +1,10 @@
 # Core Anti Fraud - POC 
 
+#### Goal
+
+Service build stack python responsible for encapsulating fraud engine rules.
+
+
 ## Project Struct 
 
 ```
